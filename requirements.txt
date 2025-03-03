@@ -43,3 +43,8 @@ ffmpeg-python>=0.2.0
 jinja2 
 apscheduler 
 colorama
+
+#textleech001
+Flask
+Flask-SQLALchemy
+Flask-Login
